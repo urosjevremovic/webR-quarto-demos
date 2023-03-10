@@ -3,15 +3,16 @@
 To make your own version:
 
 * Fork
-* Clone to your computer and render the `webr-quarto.qmd`. Required step.
-* Push html back up to GitHub
 * Turn on GitHub Pages at main branch.
-* Your demo will be visible at `<yourusername>.github.io/webR-quarto-demos/webr-quarto.html`
+* Go to your <yourusername>.github.io repo. Copy the files `webr-serviceworker.js` and `webr-worker.js` into them. I don't know why. But somehow the html can't find them otherwise. I am assuming you have GitHub Pages on for that repo so `<yourusername>.github.io` exists.
+* Your demo will now be visible at `<yourusername>.github.io/webR-quarto-demos/webr-quarto.html`
+
+I tried a few ways to get the html page to find the `webr-serviceworker.js` and `webr-worker.js` files in the repo, but not luck. I don't know html well enough.
 
 Example: 
 
-* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto.html](eeholmes.github.io/webR-quarto-demos/webr-quarto.html)
-* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto-html-demo.html](eeholmes.github.io/webR-quarto-demos/webr-quarto.html)
+* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto.html](rverse-tutorials.github.io/webR-quarto-demos/webr-quarto.html)
+* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto-html-demo.html](rverse-tutorials.github.io/webR-quarto-demos/webr-quarto-html-demo.html)
 
 ## Acknowledgements
 
