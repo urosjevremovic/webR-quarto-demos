@@ -9,7 +9,7 @@ To make your own version:
 * Go to your <yourusername>.github.io repo. Copy the files `webr-serviceworker.js` and `webr-worker.js` into them. I don't know why. But somehow the html can't find them otherwise. I am assuming you have GitHub Pages on for that repo so `<yourusername>.github.io` exists.
 * Your demo will now be visible at `<yourusername>.github.io/webR-quarto-demos/webr-quarto.html`
 
-I tried a few ways to get the html page to find the `webr-serviceworker.js` and `webr-worker.js` files in the repo, but not luck. I don't know html well enough.
+I tried a few ways to get the html page to find the `webr-serviceworker.js` and `webr-worker.js` files in this demo repo, but no luck. I don't know html well enough.
 
 Example: 
 
