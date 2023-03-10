@@ -1,6 +1,6 @@
 # webR-quarto-demos
 
-This is a fork of https://github.com/coatless-r-n-d/webR-quarto-demos
+This is a fork of https://github.com/coatless-r-n-d/webR-quarto-demos. I moved the setup.html and setup.qmd files into separate files and then include those in the qmd.
 
 To make your own version:
 
