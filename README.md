@@ -1,5 +1,7 @@
 # webR-quarto-demos
 
+This is a fork of https://github.com/coatless-r-n-d/webR-quarto-demos
+
 To make your own version:
 
 * Fork
