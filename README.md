@@ -8,7 +8,10 @@ To make your own version:
 * Turn on GitHub Pages at main branch.
 * Your demo will be visible at `<yourusername>.github.io/webR-quarto-demos/webr-quarto.html`
 
-Example: [eeholmes.github.io/webR-quarto-demos/webr-quarto.html](eeholmes.github.io/webR-quarto-demos/webr-quarto.html)
+Example: 
+
+* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto.html](eeholmes.github.io/webR-quarto-demos/webr-quarto.html)
+* [rverse-tutorials.github.io/webR-quarto-demos/webr-quarto-html-demo.html](eeholmes.github.io/webR-quarto-demos/webr-quarto.html)
 
 ## Acknowledgements
 
