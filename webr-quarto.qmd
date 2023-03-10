@@ -137,6 +137,8 @@ box(col = "grey")
 
 There is an extra step of installing packages that are not part of the base.
 
+CLICK RUN AND WAIT LIKE 1 MINUTE. When you see output, it means it is loaded. Be patient.
+
 ```{webr}
 # Install non-base R packages
 webr::install("ggplot2")
